@@ -11,6 +11,4 @@ picard/CreateSequenceDictionary.jar R=reference.fasta O=reference.dict
 samtools faidx reference.fasta
 ```
 
-"I plotted my data and they look bizarre!":
-
-Are you using a density plot with inappropriate range constraints?
+"I plotted my data and they look bizarre!" : Are you using a density plot with inappropriate range constraints?
